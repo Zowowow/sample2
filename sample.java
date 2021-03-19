@@ -5,8 +5,8 @@ public class sample2 {
 }
 }
 class formula{
-	public int add(int a, int b){
-	    int sum = a+b;
+	public int add(int c, int b){
+	    int sum = c+b;
 	    return sum;
 	}
 }
